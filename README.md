@@ -29,5 +29,5 @@ com/example/codelab1proglan
   Main.java
 
 ## Pengembang
-Nama: [Nama Mahasiswa]
+Nama: [Fajar Putra Pratama]
 Mata Kuliah: Pemrograman Lanjut
